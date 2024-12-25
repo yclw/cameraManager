@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/home/yc/V3/build",
+  "command": "/usr/bin/g++  -I/home/yc/V3/include -isystem /usr/local/include/opencv4 -g -o CMakeFiles/test_project.dir/src/main.cpp.o -c /home/yc/V3/src/main.cpp",
+  "file": "/home/yc/V3/src/main.cpp",
+  "output": "CMakeFiles/test_project.dir/src/main.cpp.o"
+},
+{
+  "directory": "/home/yc/V3/build",
+  "command": "/usr/bin/g++  -I/home/yc/V3/include -isystem /usr/local/include/opencv4 -g -o CMakeFiles/test_project.dir/src/class_camera_manager.cpp.o -c /home/yc/V3/src/class_camera_manager.cpp",
+  "file": "/home/yc/V3/src/class_camera_manager.cpp",
+  "output": "CMakeFiles/test_project.dir/src/class_camera_manager.cpp.o"
+}
+]
